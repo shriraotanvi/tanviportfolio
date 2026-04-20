@@ -39,7 +39,7 @@ const Hero = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 1 }}
         >
-          Senior Frontend Engineer & Product Designer specializing in <span className="text-white">high-stakes engineering</span> and <span className="text-white">luxury creative design</span>.
+          Full Stack Developer & Product Designer specializing in <span className="text-white">high-stakes engineering</span> and <span className="text-white">luxury creative design</span>.
         </motion.p>
 
         <motion.div
